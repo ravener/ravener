@@ -28,6 +28,7 @@ Some of my best/popular repositories
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to Learn OpenGL](https://ravener.vercel.app/posts/trying-to-learn-opengl/)
 - [Using gperf for Keyword Lookup in Lexers](https://ravener.vercel.app/posts/using-gperf-for-keyword-lookup-in-lexers/)
 - [Running fbx-conv on Android](https://ravener.vercel.app/posts/running-fbx-conv-on-android/)
 - [Creating a Paste Service](https://ravener.vercel.app/posts/creating-a-paste-service/)
