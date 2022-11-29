@@ -28,11 +28,11 @@ Some of my best/popular repositories
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Lua in 15 Minutes](https://ravener.vercel.app/posts/learn-lua-in-15-minutes/)
 - [Trying to Learn OpenGL](https://ravener.vercel.app/posts/trying-to-learn-opengl/)
 - [Using gperf for Keyword Lookup in Lexers](https://ravener.vercel.app/posts/using-gperf-for-keyword-lookup-in-lexers/)
 - [Running fbx-conv on Android](https://ravener.vercel.app/posts/running-fbx-conv-on-android/)
 - [Creating a Paste Service](https://ravener.vercel.app/posts/creating-a-paste-service/)
-- [Switching to Hugo](https://ravener.vercel.app/posts/switching-to-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
