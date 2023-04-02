@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravener</h1>
-<h3 align="center">A passionate software developer that makes random stuff</h3>
+<h3 align="center">A software developer that makes random stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=d90dd9&style=flat" alt="ravener" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ravenravener" target="blank"><img src="https://img.shields.io/twitter/follow/ravenravener?logo=twitter&style=for-the-badge" alt="ravenravener" /></a> </p>
 
-- 🌱 I’m currently learning **Compiler Development, Low Level Programming**
+- 🌱 I’m currently learning **OpenGL, Graphics Programming, Game Dev**
 
 - 📝 I regularly write articles on [https://ravener.vercel.app](https://ravener.vercel.app)
 
