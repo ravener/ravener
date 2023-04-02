@@ -54,3 +54,5 @@ Some of my best/popular repositories
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravener&" alt="ravener" /></p>
 
+![Felix Argyle](https://cdn.discordapp.com/attachments/976862121784655933/1092065584931418192/felix.png)
+
