@@ -32,11 +32,11 @@ Some of my best/popular repositories
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Compressing Games to CHD](https://ravener.vercel.app/posts/compressing-games-to-chd/)
 - [Learning GTK Threading](https://ravener.vercel.app/posts/learning-gtk-threading/)
 - [Writing a CHIP-8 Interpreter](https://ravener.vercel.app/posts/writing-a-chip8-interpreter/)
 - [Learn Lua in 15 Minutes](https://ravener.vercel.app/posts/learn-lua-in-15-minutes/)
 - [Trying to Learn OpenGL](https://ravener.vercel.app/posts/trying-to-learn-opengl/)
-- [Using gperf for Keyword Lookup in Lexers](https://ravener.vercel.app/posts/using-gperf-for-keyword-lookup-in-lexers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
