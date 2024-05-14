@@ -9,13 +9,13 @@
 </p>
 
 
-- 🌱 I’m currently learning **OpenGL, Graphics Programming, Game Dev**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://ravener.vercel.app](https://ravener.vercel.app)
 
 - 💬 Ask me about **Compilers, Termux, Python, JavaScript, Anything**
 
-- 📫 How to reach me **ravener.anime@gmail.com**
+- 📫 How to reach me **contact@ravener.is-a.dev**
 
 ## Projects
 Some of my best/popular repositories
