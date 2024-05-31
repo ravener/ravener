@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravener</h1>
-<h3 align="center">A software developer that makes random stuff.</h3>
+<h3 align="center">A hobbyist programmer from Afghanistan 🇦🇫 currently based in Quetta, Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=d90dd9&style=flat" alt="ravener" /> </p>
 
