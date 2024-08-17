@@ -58,5 +58,14 @@ Some of my best/popular repositories
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravener&" alt="ravener" /></p>
 
+## Donations
+
+I accept donations through Bitcoin:
+
+- `bc1qdzde4fm0mtlcxzxwyaluzj8xv6ghm6jznl3wc5`
+- `1HY1wuvYnFS4qn4nMHJzUXRTfV9jLhA5NG` (legacy address)
+
+Thank you for your support! ❤️
+
 ![Felix Argyle](https://cdn.discordapp.com/attachments/976862121784655933/1092065584931418192/felix.png)
 
