@@ -60,10 +60,12 @@ Some of my best/popular repositories
 
 ## Donations
 
-I accept donations through Bitcoin:
+I accept donations through cryptocurrency:
 
-- `bc1qdzde4fm0mtlcxzxwyaluzj8xv6ghm6jznl3wc5`
-- `1HY1wuvYnFS4qn4nMHJzUXRTfV9jLhA5NG` (legacy address)
+- `bc1qdzde4fm0mtlcxzxwyaluzj8xv6ghm6jznl3wc5` (Bitcoin)
+- `1HY1wuvYnFS4qn4nMHJzUXRTfV9jLhA5NG` (Bitcoin legacy address)
+- `DP5kshPmKqYgJZ26VihjC8etKxEWhDXEbR` (Dogecoin)
+- `0x834E2f7e05aB660669E62581E25c34Be51b413ec` (Ethereum)
 
 Thank you for your support! ❤️
 
