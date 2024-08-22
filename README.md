@@ -66,6 +66,7 @@ I accept donations through cryptocurrency:
 - `1HY1wuvYnFS4qn4nMHJzUXRTfV9jLhA5NG` (Bitcoin legacy address)
 - `DP5kshPmKqYgJZ26VihjC8etKxEWhDXEbR` (Dogecoin)
 - `0x834E2f7e05aB660669E62581E25c34Be51b413ec` (Ethereum)
+- `ltc1qlz586s7f5aaf3tuhumyktx96k44xcvvemh8mqn` (Litecoin)
 
 Thank you for your support! ❤️
 
