@@ -72,5 +72,3 @@ I accept donations through cryptocurrency:
 
 Thank you for your support! ❤️
 
-![Felix Argyle](https://cdn.discordapp.com/attachments/976862121784655933/1092065584931418192/felix.png)
-
