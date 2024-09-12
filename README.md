@@ -8,6 +8,8 @@
   </a> <a href="https://wakatime.com/@7ffd3459-19b7-4421-8e7c-983aff3d4790"><img src="https://wakatime.com/badge/user/7ffd3459-19b7-4421-8e7c-983aff3d4790.svg?style=for-the-badge" alt="Total time coded since Mar 6 2019" /></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/292690616285134850)](https://discord.com/users/292690616285134850)
+
 
 - 🌱 I’m currently learning **Rust**
 
