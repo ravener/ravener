@@ -34,11 +34,11 @@ Some of my best/popular repositories
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Bitcoin UTXOs and Consolidation](https://ravener.vercel.app/posts/understanding-bitcoin-utxos-and-consolidation/)
 - [Writing a ROT13 Encoder](https://ravener.vercel.app/posts/writing-a-rot13-encoder/)
 - [Writing a Brainfuck Interpreter in Python](https://ravener.vercel.app/posts/writing-a-brainfuck-interpreter-in-python/)
 - [Compressing Games to CHD](https://ravener.vercel.app/posts/compressing-games-to-chd/)
 - [Learning GTK Threading](https://ravener.vercel.app/posts/learning-gtk-threading/)
-- [Writing a CHIP-8 Interpreter](https://ravener.vercel.app/posts/writing-a-chip8-interpreter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
