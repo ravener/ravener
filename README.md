@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravener</h1>
-<h3 align="center">A hobbyist programmer from Afghanistan 🇦🇫 currently based in Quetta, Pakistan 🇵🇰</h3>
+<h3 align="center">A tech enthusiast and software developer, passionate about coding and continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravener&label=Profile%20views&color=d90dd9&style=flat" alt="ravener" /> </p>
 
@@ -59,16 +59,4 @@ Some of my best/popular repositories
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravener&show_icons=true&locale=en" alt="ravener" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravener&" alt="ravener" /></p>
-
-## Donations
-
-I accept donations through cryptocurrency:
-
-- `bc1qdzde4fm0mtlcxzxwyaluzj8xv6ghm6jznl3wc5` (Bitcoin)
-- `1HY1wuvYnFS4qn4nMHJzUXRTfV9jLhA5NG` (Bitcoin legacy address)
-- `DP5kshPmKqYgJZ26VihjC8etKxEWhDXEbR` (Dogecoin)
-- `0x834E2f7e05aB660669E62581E25c34Be51b413ec` (Ethereum)
-- `ltc1qlz586s7f5aaf3tuhumyktx96k44xcvvemh8mqn` (Litecoin)
-
-Thank you for your support! ❤️
 
