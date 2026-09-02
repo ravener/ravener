@@ -34,11 +34,11 @@ Some of my best/popular repositories
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for publishing to NPM](https://ravener.is-a.dev/posts/npm-best-practices/)
 - [Understanding Javascript Promises](https://ravener.is-a.dev/posts/understanding-javascript-promises/)
 - [Understanding Bitcoin UTXOs and Consolidation](https://ravener.is-a.dev/posts/understanding-bitcoin-utxos-and-consolidation/)
 - [Writing a ROT13 Encoder](https://ravener.is-a.dev/posts/writing-a-rot13-encoder/)
 - [Writing a Brainfuck Interpreter in Python](https://ravener.is-a.dev/posts/writing-a-brainfuck-interpreter-in-python/)
-- [Compressing Games to CHD](https://ravener.is-a.dev/posts/compressing-games-to-chd/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
